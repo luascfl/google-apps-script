@@ -10,3 +10,6 @@
 [submodule "yt-videos-to-ytm-playlist"]
 	path = yt-videos-to-ytm-playlist
 	url = https://github.com/luascfl/yt-videos-to-ytm-playlist.git
+[submodule "sheets-to-google-forms"]
+	path = sheets-to-google-forms
+	url = https://github.com/luascfl/sheets-to-google-forms
