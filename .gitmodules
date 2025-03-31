@@ -1,0 +1,12 @@
+[submodule "eventoparatarefa-googleappsscript"]
+	path = eventoparatarefa-googleappsscript
+	url = https://github.com/luascfl/eventoparatarefa-googleappsscript.git
+[submodule "sheets-to-google-tasks"]
+	path = sheets-to-google-tasks
+	url = https://github.com/luascfl/sheets-to-google-tasks.git
+[submodule "youtube-channel-scraper"]
+	path = youtube-channel-scraper
+	url = https://github.com/luascfl/youtube-channel-scraper.git
+[submodule "yt-videos-to-ytm-playlist"]
+	path = yt-videos-to-ytm-playlist
+	url = https://github.com/luascfl/yt-videos-to-ytm-playlist.git
