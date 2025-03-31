@@ -13,3 +13,6 @@
 [submodule "sheets-to-google-forms"]
 	path = sheets-to-google-forms
 	url = https://github.com/luascfl/sheets-to-google-forms
+[submodule "sheets-to-google-calendar"]
+	path = sheets-to-google-calendar
+	url = https://github.com/luascfl/sheets-to-google-calendar
