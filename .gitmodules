@@ -16,3 +16,6 @@
 [submodule "sheets-to-google-calendar"]
 	path = sheets-to-google-calendar
 	url = https://github.com/luascfl/sheets-to-google-calendar.git
+[submodule "workflow-sheets-adapter"]
+	path = workflow-sheets-adapter
+	url = https://github.com/luascfl/workflow-sheets-adapter.git
